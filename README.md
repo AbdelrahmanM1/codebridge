@@ -39,6 +39,8 @@ Programming should be for **everyone** — no matter your physical abilities or 
 ## 🖼️ Screenshot
 
 > *<img width="1860" height="942" alt="Screenshot 2025-07-19 161410" src="https://github.com/user-attachments/assets/8499cf05-c9ce-4e7a-a085-49c11085a7f6" />*
+> *<img width="627" height="642" alt="Screenshot 2025-07-19 162316" src="https://github.com/user-attachments/assets/fd148cf0-f1fa-4d20-9217-39a91dac3bb5" />*
+
 
 ---
 
